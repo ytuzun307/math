@@ -1,0 +1,6 @@
+ İntegral genellikle türevin tersi olarak ifade edilir. Türev, bir şeyin başka bir şeye göre olan değişim miktarını ölçerken; integral bir aralıktaki toplam biriken değişim miktarını ölçer.
+ Matematikte integral, bir f()x fonksiyonunu türev kabul ederek F(x) fonksiyonunu bulma işlemidir. Burada bulunan F(x) fonksiyonu verilen f(x) fonksiyonunun integrali olarak ifade edilir. İntegral Latince'deki "summa" kelimesinin baş harfi olan "∫" sembolüyle gösterilir.
+ Örnek 1: ∫2dx işleminin çözümü nedir?
+Cevap: İntegral türevin tersi olduğu için bu soru 2x + c şeklinde çözümlenir. Buradaki "c" sabit ve değişmeyen bir sayıdır.
+Örnek 2: ∫√5dx integralinin çözümü nedir?
+Cevap: İntegral sorularında integralin türevin tersi olduğunun unutulmaması ve çözüm işleminin bu şekilde yapılması gerekir. Burada çözüm √5x + c olarak çözümlenebilir.
